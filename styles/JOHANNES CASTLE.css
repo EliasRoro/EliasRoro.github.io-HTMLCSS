@@ -1,0 +1,45 @@
+
+body 
+{
+	text-align: center;
+	padding: 10px; 
+	background-color:black;
+}
+ h1 
+  { 
+  font-size: 30px;
+  }
+body
+  { 
+  font: 20px Helvetica, sans-serif; color: red;
+  }
+a 
+{ 
+color: #dc8100; 
+text-decoration: none;
+ }
+ img
+ {
+	 float:right;
+	 width:1000;
+ }
+a:hover
+ { color: blue; 
+ text-decoration: none;
+ }
+script 
+{
+	font-weight: bold;
+	font-family:"Comic Sans MS", cursive, sans-serif;
+}
+aside
+{
+	float:top;
+	width:1790px;
+	
+	
+}
+
+
+
+

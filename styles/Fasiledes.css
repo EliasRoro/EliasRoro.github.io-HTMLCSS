@@ -1,0 +1,23 @@
+
+body 
+{
+	text-align:center;
+	padding: 10px; 
+	margin: left;
+	padding-bottom:1px;
+	font: 20px Helvetica, sans-serif; color: purple;
+}
+ h1 
+  { 
+  font-size: 30px;
+  }
+
+a 
+{ 
+color: brown; 
+text-decoration: none;
+ }
+a:hover
+ { color:white; 
+ text-decoration: none;
+ }

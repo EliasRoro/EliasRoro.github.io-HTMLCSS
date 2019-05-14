@@ -1,0 +1,94 @@
+body {
+	width: 964px;
+	background:linear-gradient(to right, green, yellow ,red);
+	margin: 15px auto;
+	/* Setting the default text color, size, page background and a font stack: */
+	font-size:0.825em;
+	color:#fcfcfc;
+	font-family:Arial, Helvetica, sans-serif;
+}
+nav
+{
+	
+	margin-left:150px;
+	padding-top:2em;
+	float:left;
+
+	
+}
+#sidebarA{
+	width: 180px;
+	height: 350px;
+	float: left;
+	color:black;
+	display:block;
+	font-weight:bold;
+	text-shadow:0 1px 1px white;
+	text-transform:uppercase;
+	margin-right:10px;
+	
+}
+#sidebarB{
+	width: 190px;
+	height: 288px;
+	float: right;
+	color:black;
+	display:block;
+	font-weight:bold;
+	text-shadow:0 1px 1px white;
+	text-transform:uppercase;
+		
+}
+main {
+	width: 580px;
+	float: left;
+	margin-right:0.30em;
+}
+footer {
+	text-align: center;
+	clear: both;
+}
+header {
+	font-family:"Comic Sans MS", cursive, sans-serif;
+	color: black;
+}
+h1 {
+	text-align: center;
+	font-family:"Comic Sans MS", cursive, sans-serif;
+	color: black;
+	border: 15px double black;
+	font-weight: bold;
+	box-shadow: 1px 4px 5px 5px black;
+	width: 515px;
+}
+h2 ,h3{
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+	color: black;
+}
+
+p {
+	font-size:1.3em;
+	color:black;
+	margin-right:50px;
+	text-shadow:white;
+}
+img {
+	border:3px solid white;
+    border-radius: 5px;
+	}
+.line{
+	height:1px;
+
+	background:#717171;
+
+	border-bottom:1px solid #313030;
+}
+.clear{
+	position: absolute;
+    top: 8px;
+	bottom: 8px;
+    left: 6px;
+    font-size: 19px;
+	height:300px;
+	background-color: none;
+}
